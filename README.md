@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+Developed a To-Do List application that allows users to add tasks, mark them as completed, and track pending tasks efficiently. The app provides a simple and organized way to manage daily tasks with a user-friendly interface.
 
 ## Getting Started
 
